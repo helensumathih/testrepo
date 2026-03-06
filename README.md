@@ -1,2 +1,2 @@
 # testrepo
-Test REpository.
+Test Repository.
